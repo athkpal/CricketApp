@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Windows 7\.android\build-cache\6ea2826f803a51e152e391f231d75486a5986536\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Windows 7\.android\build-cache\ea9e8b5b6037c6b258c70d808835379521bd299c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Windows 7\.android\build-cache\e4b15ed16f5f51a6677e4d3c2b87e40da23793af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Windows 7\.android\build-cache\589b0c806665e08efa8239b23082e0cc7f0e635a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Windows 7\.android\build-cache\eceb16dce63b052bf06300289171c790a696e374\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Windows 7\.android\build-cache\e19de0fcf9b92f5053feddf6c2cae846c702e8db\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Windows 7\.android\build-cache\c72b0e2499ff765d229765f0ca9976d168b85af1\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Windows 7\.android\build-cache\d6b784e8841124dfff131318ec57a740e4302b5f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Windows 7\.android\build-cache\c12d82637e3c39f4168b30f9419d049f45b298bc\output\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.windows7.cricket.MainActivity
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.windows7.cricket.MatchDetails
+ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:22:9-26:19
+	android:label
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:24:13-45
+	android:parentActivityName
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml:23:13-41
+uses-sdk
+INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Windows 7\.android\build-cache\6ea2826f803a51e152e391f231d75486a5986536\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Windows 7\.android\build-cache\ea9e8b5b6037c6b258c70d808835379521bd299c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Windows 7\.android\build-cache\e4b15ed16f5f51a6677e4d3c2b87e40da23793af\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Windows 7\.android\build-cache\589b0c806665e08efa8239b23082e0cc7f0e635a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Windows 7\.android\build-cache\eceb16dce63b052bf06300289171c790a696e374\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Windows 7\.android\build-cache\e19de0fcf9b92f5053feddf6c2cae846c702e8db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Windows 7\.android\build-cache\c72b0e2499ff765d229765f0ca9976d168b85af1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\c48ed28a385e0d04f90676a4a4ed7b37e3e5baec\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Windows 7\.android\build-cache\d6b784e8841124dfff131318ec57a740e4302b5f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Windows 7\.android\build-cache\c12d82637e3c39f4168b30f9419d049f45b298bc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Cricket\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Windows 7\.android\build-cache\6ea2826f803a51e152e391f231d75486a5986536\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Windows 7\.android\build-cache\ea9e8b5b6037c6b258c70d808835379521bd299c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Windows 7\.android\build-cache\e4b15ed16f5f51a6677e4d3c2b87e40da23793af\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Windows 7\.android\build-cache\589b0c806665e08efa8239b23082e0cc7f0e635a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Windows 7\.android\build-cache\eceb16dce63b052bf06300289171c790a696e374\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Windows 7\.android\build-cache\e19de0fcf9b92f5053feddf6c2cae846c702e8db\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\c48ed28a385e0d04f90676a4a4ed7b37e3e5baec\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Windows 7\.android\build-cache\d6b784e8841124dfff131318ec57a740e4302b5f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Windows 7\.android\build-cache\c12d82637e3c39f4168b30f9419d049f45b298bc\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\AndroidManifest.xml:26:9-47
