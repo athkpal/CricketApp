@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\e4b15ed16f5f51a6677e4d3c2b87e40da23793af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_6a85c107ef324f04be63d46a8ee3add15b501d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\c48ed28a385e0d04f90676a4a4ed7b37e3e5baec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_52c012f96cacc60197f1695ee493026f1c1b310b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\ea9e8b5b6037c6b258c70d808835379521bd299c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_a896b5ffcc945f8a48794c434e7ee408f8872746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\eceb16dce63b052bf06300289171c790a696e374\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_53c63664a1a3f36a6c9dfb939d8e575ac0cb7af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\c72b0e2499ff765d229765f0ca9976d168b85af1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_88c86ba66fa6723c1b8f08bef3cb36230007f30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e567e15523a0db54c1e2711fc5b2c4db6795fb5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\d6b784e8841124dfff131318ec57a740e4302b5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_bb8830049c98b4120d98cf8c22552816d33523f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\2fa645f6aa2dd40bc1b3e75a0e628ee67ec075d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_30b2d4c910dacf904762ebcc30d93379b226893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\e19de0fcf9b92f5053feddf6c2cae846c702e8db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_345cbad6420da13f5efda5cfbc126c5548590d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\589b0c806665e08efa8239b23082e0cc7f0e635a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_ca2e7f5848ec282dbde7292188d86e61f3725c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\c12d82637e3c39f4168b30f9419d049f45b298bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_53c70a721541b1808afb18f0b78bb2d90173ee2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_0b7d81e7c3f24510599b53514055b87d307b5fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 7\.android\build-cache\6ea2826f803a51e152e391f231d75486a5986536\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudioProjects\Cricket\app\build\intermediates\pre-dexed\debug\classes_27af5c697ca4797dc442464dfcaf0008765811d2.jar" />
+    </item>
+
+</items>
